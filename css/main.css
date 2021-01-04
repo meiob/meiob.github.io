@@ -118,7 +118,7 @@ h1,h2,h3,h4,h5,h6 {
   background-color: #ed6e2f;
 }
 .header-logo img {
-  width: 4.3vh;
+  width: 8vh;
 }
 .header-nav {
   float: right;
@@ -348,7 +348,7 @@ h1,h2,h3,h4,h5,h6 {
   transform: translate(-50%, 0);
 }
 .hero-home {
-  background-image: url(/images/shark.jpg);
+  background-image: url(/images/855-brannan-st.jpg);
   background-position: center;
 }
 .hero-content {
@@ -363,22 +363,15 @@ h1,h2,h3,h4,h5,h6 {
   color: rgba(255, 255, 255, 0.8);
   font-size: 7vw;
   margin-bottom: 0.25em;
+  background-color: rgba(0, 0, 0, 0.6);
 }
 .hero-content .social-link {
-  background-color: rgba(255, 255, 255, 0.8);
-  color: #557c83;
-}
-.hero-content .social-link:hover {
-  background-color: #000;
+  background-color: rgba(0, 0, 0, 0.6);
   color: #fff;
 }
-.hero-content h1:before {
-  color: blue;
-  content: "B";
-}
-.hero-content h1:after {
-  color: red;
-  content: "A";
+.hero-content .social-link:hover {
+  background-color: rgba(255, 255, 255, 0.8);
+  color: rgba(0, 0, 0, 0.6);
 }
 .half-hero {
   background-position: center center;
