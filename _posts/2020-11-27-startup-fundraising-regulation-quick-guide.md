@@ -4,7 +4,7 @@ title: Startup Fundraising Regulation Quick Guide 👀
 postHero: /images/post_hero_11272020.png
 author: masa
 authorTwitter: https://twitter.com/masaakifuruki
-gravatar: https://en.gravatar.com/userimage/83488390/8828de630b7365073c049d559a9c3cba.png?size=200
+gravatar: https://en.gravatar.com/userimage/83488390/e292e2f9ba8e52cd14aae2c80e1a4f30.png?size=200
 postFooter: This blog post is originally published on <a href="https://masaakifuruki.medium.com/command-to-open-close-multiple-apps-on-macos-548f118e658d">Medium</a>
 ---
 
