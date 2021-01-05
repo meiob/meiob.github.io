@@ -2,9 +2,9 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE.md)
 
-Personal website with purpose. 🌈
+[@masaakifuruki](https://github.com/masaakifuruki)'s personal website, hack with purpose. 🌈
 
-Published on [https://masa.hackwith.org](https://masa.hackwith.org/) 
+Published on [https://masa.hackwith.org](https://masa.hackwith.org/)
 
 ![Preview](images/screenshot-v-1.png "masa.hackwith.org")
 
