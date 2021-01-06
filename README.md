@@ -1,48 +1,52 @@
-# #hackwith with personal blog 💛
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE.md)
+## 📄 Descriptions
 
-[@masaakifuruki](https://github.com/masaakifuruki)'s personal website, hack with purpose. 🌈
+[@masaakifuruki](https://github.com/masaakifuruki)'s website for 2021, hack with purpose. 🌈
 
-Published on [https://masa.hackwith.org](https://masa.hackwith.org/)
+Published on [https://masa.hackwith.org](https://masa.hackwith.org/), Janualy 3rd, 2021.
 
 ![Preview](images/screenshot-v-1.png "masa.hackwith.org")
 
-## Requirements
+## ⚖️ License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE.md)
+
+
+## 💡 Requirements
 
 - [Github Pages](https://pages.github.com/)
 - [Jekyll](https://jekyllrb.com/)
 
 💡This website is a modified **copy** of `Sample project` from the [Learn Enough CSS Layout to Be Dangerous](https://www.learnenough.com/css-and-layout-tutorial/introduction). If you want to make your website like this one, you should start your course from there.
 
-### Scope
+### 🪄 Scope
 - Personal website with purpose
 - Almost absolutely free and open
 - Easy to deploy & update
 
-### Features
+### 😎 Features
 - Social links
 - Blog - Jekyll
 - Newsletter - [Substack](https://hackwith.substack.com/)
 
-### TODOS
+### ✏️ TODOS
 - Generalized template for distribution
-- Add dark theme
+- Add a dark theme
 - Add theme switch for light and dark
 
-## Join the movement
+## ✊ Join the movement
 [Substack](https://hackwith.substack.com/)
 
-## Contribute to the movement
+## 💛 Contribute to the movement
 
 Wanna share your life-hack app tutorial with us?
 
-📧 [masa@hackwith.org](masa@hackwith.org)
+Please email me at [masa@hackwith.org](masa@hackwith.org)
 
+Thanks!
 
-
-### #genderpronounsmatter
-I made logo for gender pronouns. You are encourage to use your pronouns.
+### ⚧ #genderpronounsmatter
+I made logos for gender pronouns. You are encouraged to use your pronouns.
 
 ```
 # images/logos/<your pronouns>.png
