@@ -1,5 +1,5 @@
 
-## 📄 Descriptions
+### 📄 Descriptions
 
 [@masaakifuruki](https://github.com/masaakifuruki)'s website for 2021, hack with purpose. 🌈
 
@@ -7,14 +7,14 @@ Published on [https://masa.hackwith.org](https://masa.hackwith.org/), Janualy 3r
 
 ![Preview](images/screenshot-v-1.png "masa.hackwith.org")
 
-## ⚖️ License
+### ⚖️ License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE.md)
 
 > 💡This website is a modified **copy** of `sample project` from the [Learn Enough CSS Layout to Be Dangerous](https://www.learnenough.com/css-and-layout-tutorial/introduction). If you want to make your website like this one, you should start your course from there.
 
 
-## ✅ Requirements
+### ✅ Requirements
 
 - [Github Pages](https://pages.github.com/)
 - [Jekyll](https://jekyllrb.com/)
@@ -34,10 +34,10 @@ Published on [https://masa.hackwith.org](https://masa.hackwith.org/), Janualy 3r
 - Add a dark theme
 - Add theme switch for light and dark
 
-## ✊ Join the movement
+### ✊ Join the movement
 [Substack](https://hackwith.substack.com/)
 
-## 💛 Contribute to the movement
+### 💛 Contribute to the movement
 
 Wanna share your life-hack app tutorial with us?
 
