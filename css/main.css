@@ -491,6 +491,10 @@ h1,h2,h3,h4,h5,h6 {
 .card-copy {
   font-size: 0.9em;
 }
+.card-copy .tags {
+  font-style: oblique;
+  color: #666;
+}
 
 /* GALLERY STYLES */
 .gallery-thumbs {
