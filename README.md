@@ -35,7 +35,9 @@ Published on [https://masa.hackwith.org](https://masa.hackwith.org/), Janualy 3r
 - Add theme switch for light and dark
 
 ## ✊ Join the movement
-[Substack](https://hackwith.substack.com/)
+#hackwith is the coding tutorial newsletter that thrive with you. Start building life hack apps with me and take your coding game to the next level. 🚀
+
+📧 Sing up from [Substack](https://hackwith.substack.com/) to get started!!
 
 ## 💛 Contribute to the movement
 
