@@ -78,7 +78,6 @@ p {
   margin: 0.75em 0;
 }
 h2 ~ p {
-  font-size: 0.9em;
   font-style: italic;
   margin: 1em auto 0;
   max-width: 70%;
@@ -489,7 +488,7 @@ h1,h2,h3,h4,h5,h6 {
   margin: 2em auto 1em;
 }
 .bio-copy {
-  font-size: 0.75em;
+  font-size: 0.9em;
 }
 
 /* GALLERY STYLES */
