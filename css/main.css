@@ -458,36 +458,37 @@ h1,h2,h3,h4,h5,h6 {
   width: 75%;
 }
 
-/* BIO STYLES */
-.bio-wrapper {
+/* card STYLES */
+.card-wrapper {
   font-size: 24px;
   margin: auto;
   max-width: 960px;
   overflow: hidden;
 }
-.bio-box {
+.card-box {
   box-sizing: border-box;
   float: left;
   font-size: 1rem;
-  margin: 6rem 0 0;
+  margin: 5rem 0 0;
   padding: 0 3%;
   width: 33%;
 }
-.bio-box h3 {
-  color: #fff;
+.card-box h3 {
+  color: #E45649;
   font-size: 1.5em;
-  margin: -40px 0 1em;
+  line-height: 40px;
+  margin: 1em auto;
   text-align: center;
   text-transform: uppercase;
 }
-.bio-box img {
+.card-box img {
   width: 100%;
 }
-.bio-box .social-link {
+.card-box .social-link {
   display: block;
-  margin: 2em auto 1em;
+  margin: 1em auto;
 }
-.bio-copy {
+.card-copy {
   font-size: 0.9em;
 }
 
@@ -692,7 +693,7 @@ h1,h2,h3,h4,h5,h6 {
   .callout-copy {
     flex: 1;
   }
-  .bio-box {
+  .card-box {
     float: none;
     font-size: 1.3rem;
     width: auto;
