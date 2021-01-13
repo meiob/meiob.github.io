@@ -1,4 +1,4 @@
-https://twitter.com/meiokubo---
+---
 layout: post
 title: Commands to open/close multiple apps on macOS🪄
 postHero: /images/post_hero_01032021.png
