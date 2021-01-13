@@ -4,7 +4,7 @@ title: How to make your F.I.R.E. plan in 10 minutes 🚀
 postHero: /images/post_hero_11022020.png
 author: mei
 authorTwitter: https://twitter.com/masaakifuruki
-gravatar: https://en.gravatar.com/userimage/83488390/e292e2f9ba8e52cd14aae2c80e1a4f30.png?size=200
+gravatar: https://s.gravatar.com/avatar/0f4bea802580e706385baeee34475690?size=200
 postFooter: This blog post is originally published on <a href="https://meiokubo.medium.com/how-to-make-your-f-i-r-e-plan-in-10-minutes-96dadf6240b">Medium</a>
 ---
 

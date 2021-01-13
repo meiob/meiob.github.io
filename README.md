@@ -1,11 +1,10 @@
-
 # 📄 Descriptions
 
-[@masaakifuruki](https://github.com/masaakifuruki)'s website for 2021, hack with purpose. 🌈
+[@meiokubo](https://github.com/meiokubo)'s website for 2021, hack with purpose. 🌈
 
-Published on [https://masa.hackwith.org](https://masa.hackwith.org/), Janualy 3rd, 2021.
+Published on [https://mei.hackwith.org](https://mei.hackwith.org/), Janualy 3rd, 2021.
 
-![Preview](images/screenshot-v-1.png "masa.hackwith.org")
+![Preview](images/screenshot-v-1.png "mei.hackwith.org")
 
 ## ⚖️ License
 
@@ -13,29 +12,32 @@ Published on [https://masa.hackwith.org](https://masa.hackwith.org/), Janualy 3r
 
 > 💡This website is a modified **copy** of `sample project` from the [Learn Enough CSS Layout to Be Dangerous](https://www.learnenough.com/css-and-layout-tutorial/introduction). If you want to make your website like this one, you should start your course from there.
 
-
 ## ✅ Requirements
 
-- [Github Pages](https://pages.github.com/)
-- [Jekyll](https://jekyllrb.com/)
+-   [Github Pages](https://pages.github.com/)
+-   [Jekyll](https://jekyllrb.com/)
 
 ## 🪄 Scope
-- Personal website with purpose
-- Almost absolutely free and open
-- Easy to deploy & update
+
+-   Personal website with purpose
+-   Almost absolutely free and open
+-   Easy to deploy & update
 
 ## 😎 Features
-- Social links
-- Blog - Jekyll
-- Newsletter - [Substack](https://hackwith.substack.com/)
+
+-   Social links
+-   Blog - Jekyll
+-   Newsletter - [Substack](https://hackwith.substack.com/)
 
 ## ✏️ TODOS
-- Generalized template for distribution
-- Add a dark theme
-- Add theme switch for light and dark
+
+-   Generalized template for distribution
+-   Add a dark theme
+-   Add theme switch for light and dark
 
 ## ✊ Join the movement
-#hackwith is the coding tutorial newsletter that thrive with you. Start building life hack apps with me and take your coding game to the next level. 🚀
+
+\#hackwith is the coding tutorial newsletter that thrive with you. Start building life hack apps with me and take your coding game to the next level. 🚀
 
 📧 Sing up from [Substack](https://hackwith.substack.com/) to get started!!
 
@@ -43,16 +45,15 @@ Published on [https://masa.hackwith.org](https://masa.hackwith.org/), Janualy 3r
 
 Wanna share your life-hack app tutorial with us?
 
-Please email me at [masa@hackwith.org](masa@hackwith.org)
+Please email me at [mei@hackwith.org](mei@hackwith.org)
 
 Thanks!
 
 ## ⚧ #genderpronounsmatter
+
 I made logos for gender pronouns. You are encouraged to use your pronouns.
 
-```
-# images/logos/<your pronouns>.png
-```
+    # images/logos/<your pronouns>.png
 
 #### #theythem
 
@@ -75,9 +76,13 @@ I made logos for gender pronouns. You are encouraged to use your pronouns.
 ![Preview](images/logos/sheher-dark-trans.png "#sheher dark trans")
 
 #### #hehim
+
 ![Preview](images/logos/hehim-light.png "#hehim light")
+
 ![Preview](images/logos/hehim-dark.png "#hehim dark")
+
 ![Preview](images/logos/hehim-light-trans.png "#hehim light trans")
+
 ![Preview](images/logos/hehim-dark-trans.png "#hehim dark trans")
 
 #### #hackwith
