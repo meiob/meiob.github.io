@@ -1,9 +1,9 @@
----
+https://twitter.com/meiokubo---
 layout: post
 title: Commands to open/close multiple apps on macOS🪄
 postHero: /images/post_hero_01032021.png
 author: mei
-authorTwitter: https://twitter.com/masaakifuruki
+authorTwitter: https://twitter.com/meiokubo
 gravatar: https://s.gravatar.com/avatar/0f4bea802580e706385baeee34475690?size=200
 postFooter: This blog post is originally published on <a href="https://meiokubo.medium.com/command-to-open-close-multiple-apps-on-macos-548f118e658d">Medium</a>
 ---
