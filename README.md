@@ -4,7 +4,7 @@
 
 Published on [https://mei.hackwith.org](https://mei.hackwith.org/), Janualy 3rd, 2021.
 
-![Preview](images/screenshot-v-1.png "mei.hackwith.org")
+![Preview](images/screenshot-v-2.png "mei.hackwith.org")
 
 ## ⚖️ License
 
