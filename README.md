@@ -31,9 +31,11 @@ Published on [https://mei.hackwith.org](https://mei.hackwith.org/), Janualy 3rd,
 
 ## ✏️ TODOS
 
--   Generalized template for distribution
--   Add a dark theme
--   Add theme switch for light and dark
+* [X] Add CV
+* [ ] Add Spotify feed
+* [ ] Add Github feed
+* [ ] Generalized template for distribution
+* [ ] Add Dark mode and switch
 
 ## ✊ Join the movement
 
