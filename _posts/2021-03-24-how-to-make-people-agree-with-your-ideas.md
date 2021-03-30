@@ -8,7 +8,7 @@ gravatar: https://s.gravatar.com/avatar/0f4bea802580e706385baeee34475690?size=20
 postFooter: This blog post is originally published on <a href="https://meiokubo.medium.com/how-to-make-people-agree-with-your-ideas-4f717d5d0779">Medium</a>
 ---
 
-I just had to think deeply about the recent mass shooting and why an attacker’s personality is often associated with mental illness as a person with developmental/behavioral disorders.
+I just had to think deeply about the recent mass shooting and why an attacker’s personality is often associated with mental health issues.
 
 And that got me also thinking about how can I make people agree with the idea who disagrees with that idea. In this case, gun restrictions in the United States.
 
