@@ -3,7 +3,7 @@ layout: post
 title: Steps I took to get vaccinated in San Francisco
 postHero: /images/post_hero_03172021.png
 author: mei
-authorTwitter: https://twitter.com/meiokubo
+authorTwitter: https://twitter.com/hackbymandy24
 gravatar: https://s.gravatar.com/avatar/0f4bea802580e706385baeee34475690?size=200
 postFooter: This blog post is originally published on <a href="https://meiokubo.medium.com/steps-i-took-to-get-vaccinated-in-san-francisco-4b571532383e">Medium</a>
 ---

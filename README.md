@@ -2,7 +2,7 @@
 
 [@meiokubo](https://github.com/meiokubo)'s website for 2021, hack with purpose. 🌈
 
-Published on [https://mei.hackwith.org](https://mei.hackwith.org/), Janualy 3rd, 2021.
+Published on [https://www.meiokubo.xyz](https://www.meiokubo.xyz), June 20th, 2021.
 
 ![Preview](images/screenshot-v-2.png "mei.hackwith.org")
 
@@ -27,27 +27,24 @@ Published on [https://mei.hackwith.org](https://mei.hackwith.org/), Janualy 3rd,
 
 -   Social links
 -   Blog - Jekyll
--   Newsletter - [Substack](https://hackwith.substack.com/)
+-   Newsletter - [Substack](https://hackbymandy24.substack.com)
 
 ## ✏️ TODOS
 
-* [X] Add CV
+* [X] Add Resume
+* [X] Add Chatbot
+* [X] Train Chatbot with personalized answers about me
 * [ ] Add Spotify feed
 * [ ] Add Github feed
-* [ ] Generalized template for distribution
 * [ ] Add Dark mode and switch
+* [ ] Make Github page template from this website
 
-## ✊ Join the movement
+## 🗞 Subscribe to my newsletter
+[Substack](https://hackbymandy24.substack.com/)
 
-\#hackwith is the coding tutorial newsletter that thrive with you. Start building life hack apps with me and take your coding game to the next level. 🚀
+## 💛 Email me
 
-📧 Sing up from [Substack](https://hackwith.substack.com/) to get started!!
-
-## 💛 Contribute to the movement
-
-Wanna share your life-hack app tutorial with us?
-
-Please email me at [mei@hackwith.org](mei@hackwith.org)
+Email me at [mei@hackwith.org](mei@hackwith.org)
 
 Thanks!
 
