@@ -33,18 +33,15 @@ Published on [https://www.meiokubo.xyz](https://www.meiokubo.xyz), June 20th, 20
 
 * [X] Add Resume
 * [X] Add Chatbot
-* [X] Train Chatbot with personalized answers about me
-* [ ] Add Spotify feed
-* [ ] Add Github feed
+* [ ] Train Chatbot with personalized answers about me
 * [ ] Add Dark mode and switch
-* [ ] Make Github page template from this website
 
 ## 🗞 Subscribe to my newsletter
 [Substack](https://hackbymandy24.substack.com/)
 
 ## 💛 Email me
 
-Email me at [mei@hackwith.org](mei@hackwith.org)
+Email me at [hi@meiokubo.xyz](hi@meiokubo.xyz)
 
 Thanks!
 
@@ -66,8 +63,4 @@ I made logos for gender pronouns. You are encouraged to use your pronouns.
 
 ![Preview](images/logos/hehim-light.png "#hehim light")
 
-#### #hackwith
-
-![Preview](images/logos/hackwith-light.png "#hackwith light")
-
-##### 🎨 More variant in [images/logos/](images/logs/) directory. 👀
+##### 🎨 More variants in [images/logos/](images/logs/) directory.
