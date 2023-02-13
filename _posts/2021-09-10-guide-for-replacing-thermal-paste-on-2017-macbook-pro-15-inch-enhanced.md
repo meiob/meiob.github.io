@@ -3,8 +3,8 @@ layout: post
 title: Guide for replacing thermal paste on 2017 MacBook Pro 15-inch (Enhanced)💩
 postHero: /images/post_hero_09102021.png
 author: mei
-authorTwitter: https://twitter.com/hackbymandy24
-gravatar: https://s.gravatar.com/avatar/0f4bea802580e706385baeee34475690?size=200
+authorTwitter: https://twitter.com/meiorz3
+gravatar: https://s.gravatar.com/avatar/110f8c7cc62556b38ed814b50bd25e14?size=200
 postFooter: This blog post is originally published on <a href="https://stone-number-330.notion.site/Guide-for-replacing-thermal-paste-on-2017-MacBook-Pro-15-inch-Enhanced-14e0880f9a5447d6b0b98f9c54422aa8">Notion</a>
 ---
 
