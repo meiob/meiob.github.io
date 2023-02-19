@@ -7,7 +7,7 @@ authorTwitter: https://twitter.com/meiorz3
 gravatar: https://s.gravatar.com/avatar/110f8c7cc62556b38ed814b50bd25e14?size=200
 postFooter: Thank you for reading!
 ---
-She's giving unnecessary long answers for even easy questions and when comes to match questions like trig or poly, she gets low-key sus sometimes. She’s appears to be trained to more like show off than to have natural human like interactions. So it’s not giving 100% yet. Whatever it’s doing, key to get through tech ray-off party 2023 is to just vibing, ehh? Go off queen, milady, [Shirasaki Himegimi will be back soon in 2nd half of 3.5](https://act.hoyoverse.com/ys/event/e20230218preview-z6n9lj/index.html)!!
+She's giving unnecessary long answers for even easy questions. Especially when comes to math questions like trig or poly, she gets low-key sus sometimes. She’s appears to be trained to more like show off than to have natural human like interactions. So it’s not giving 100% yet. Whatever it’s doing, key to get through tech ray-off party 2023 is to just vibing, ehh? Go off queen, milady, [Shirasaki Himegimi will be back soon in 2nd half of 3.5](https://act.hoyoverse.com/ys/event/e20230218preview-z6n9lj/index.html)!!
 
 ![ayaka](../../../images/ayaka_sticker_3.png)
 
